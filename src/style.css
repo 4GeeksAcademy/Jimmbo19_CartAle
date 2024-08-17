@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card {
+  width: 300px; /* Puedes ajustar el tamaño de la carta */
+  height: 450px; /* Puedes ajustar el tamaño de la carta */
+  border: 1px solid #000; /* Borde para la carta */
+  background-color: #fff; /* Fondo blanco para la carta */
+
+  font-size: 5em; /* Tamaño del texto dentro de la carta */
+  font-family: Arial, sans-serif;
+  border-radius: 10px; /* Bordes redondeados opcionales */
+}
